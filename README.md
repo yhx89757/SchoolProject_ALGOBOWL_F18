@@ -4,3 +4,5 @@ Students were grouped (3 people in our team) and our team ranked 4th out of 22 t
   Input generator: Lily  
   Algobowl main code: Haoxuan (me)  
   Verification code: Lily and Shannon  
+# AlgoBOWL website link:  
+https://algobowl.mines.edu/competition/1
