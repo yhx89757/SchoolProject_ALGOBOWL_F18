@@ -8,5 +8,4 @@ Students were grouped (3 people in our team) and our team ranked 4th out of 22 t
 https://algobowl.mines.edu/competition/1  
 
 
-![Image text](https://github.com/yhx89757/SchoolProject_ALGOBOWL_F18/raw/master/pics/ranking.jpg)  
-
+![Image text](https://github.com/yhx89757/SchoolProject_ALGOBOWL_F18/raw/master/pics/ranking.JPG)  
